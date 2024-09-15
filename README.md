@@ -15,3 +15,5 @@ Install dependencies with npm install.
 Configure your bot token and IDs in the config.json file.
 Start the bot using node index.js.
 
+#This will not work if the version is not same
+
